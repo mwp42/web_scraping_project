@@ -1,0 +1,6 @@
+[database]
+db_name = your_username_db
+db_port = 
+db_host = 
+user = your_username
+passwd = your_password
