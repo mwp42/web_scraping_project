@@ -4,3 +4,4 @@ db_port =
 db_host = 
 user = your_username
 passwd = your_password
+chromedriver.exe
